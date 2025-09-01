@@ -20,7 +20,7 @@ console.log(greet()); // Vad skrivs ut?
 // När är det bra att använda defaultvärden?
 // Testa gärna med egna funktioner och flera defaultvärden.
 
- /*
+/*
 Förklaring:
 - Defaultvärden gör att funktioner fungerar även om man glömmer att skicka med en parameter.
 - Det minskar risken för buggar och gör koden mer robust.
